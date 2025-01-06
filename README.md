@@ -1,6 +1,6 @@
 A small tool where you can upload a photo and easily map out RGB LEDs to create a plugin for Signal RGB.
 
-Script requires pillow, numpy, scipy, and tkinter to run. These can be installed using "pip install -r requirements.txt". There is also a *.exe file that can be run instead.
+Script requires pillow, numpy, scipy, and tkinter to run. These can be installed using "pip install -r requirements.txt". There is also a *.exe file that can be run instead in the 'dist' folder.
 
 When you run it, you'll see the default screen:
 
