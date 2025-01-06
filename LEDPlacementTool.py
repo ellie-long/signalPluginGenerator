@@ -17,7 +17,7 @@ class LEDStripEditor:
         self.bg_image_id = None
         self.drawing_spline = False
 
-        self.canvas = tk.Canvas(root, width=800, height=800, bg="black")
+        self.canvas = tk.Canvas(root, width=400, height=400, bg="black")
         self.canvas.pack()
 
         self.controls_frame = tk.Frame(root)
