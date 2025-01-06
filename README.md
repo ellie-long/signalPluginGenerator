@@ -8,7 +8,7 @@ Add your number of LEDs. For some cheap AIO tube lights I picked up, they have 3
 
 ![Upload Background](https://github.com/user-attachments/assets/38bd4166-923f-4d1a-b281-9f395596a652)
 
-Then to make the shape, I click Draw Spline and add points roughly along the center of the LED tube. This can be roughly done; a spline fit will be added to create a curved line joining all parts.
+Then to make the shape, I click Draw Spline and add points roughly along the center of the LED tube. This can be roughly done; a spline fit will be added to create a curved line joining all points.
 
 ![Draw Spline](https://github.com/user-attachments/assets/426eb115-eb2b-4e58-ad7e-15e5f28ae9e7)
 
