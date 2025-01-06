@@ -1,5 +1,7 @@
 A small tool where you can upload a photo and easily map out RGB LEDs to create a plugin for Signal RGB.
 
+Script requires pillow, numpy, scipy, and tkinter to run. These can be installed using pip.
+
 When you run it, you'll see the default screen:
 
 ![No image](https://github.com/user-attachments/assets/0f9e8876-3dec-4e77-97cf-b71dab0945a7)
