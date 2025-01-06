@@ -90,7 +90,7 @@ class LEDStripEditor:
         file_path = filedialog.askopenfilename(filetypes=[("Image files", "*.png;*.jpg;*.jpeg;*.bmp;*.gif")])
         if file_path:
             img = Image.open(file_path)
-            img = img.resize((800, 800), Image.LANCZOS)
+            img = img.resize((400, 400), Image.LANCZOS)
             self.background_image = ImageTk.PhotoImage(img)
             self.draw_leds()
 
